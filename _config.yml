@@ -2,10 +2,10 @@
 baseurl: "nicholasaborrelli.com"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+# google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Balling Photography"
+title: "Balling Photography"
 subtitle: "Photographer for the Penn State Paintball Club Team"
 author: "Nicholas Borrelli"
 header:
